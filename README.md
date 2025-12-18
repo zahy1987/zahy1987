@@ -6,7 +6,7 @@ Aspiring Full-Stack Developer.
 - Frontend: HTML & CSS, Tailwind CSS (solid foundation)
 - JavaScript: in progress
 
-# Learning roadmap 
+## Learning roadmap 
 - JavaScript
 - Python
 - Command Line
@@ -14,19 +14,19 @@ Aspiring Full-Stack Developer.
 - React
 - SQL & Databases
 
-# Certifications (planned)
+## Certifications (planned)
 - AWS Certified Cloud Practitioner (including exam)
 - Microsoft Certified: Azure Administrator Associate (including exam)
 
-# Goals
+## Goals
 - Become a job-ready Full-Stack Developer
 - Build real-world projects and a strong portfolio
 - Work remotely within the next 2 years
 
-# What I’m building
+## What I’m building
 - Frontend practice projects
 - Portfolio website
 - Future full-stack applications
 
-## Mindset
+# Mindset
 Learning with a clear goal: remote work and the freedom to live and travel in a van.
