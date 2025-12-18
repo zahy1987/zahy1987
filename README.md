@@ -28,5 +28,5 @@ Aspiring Full-Stack Developer.
 - Portfolio website
 - Future full-stack applications
 
-# Mindset
-Learning step by step, focusing on consistency and real understanding.
+## Mindset
+Learning with a clear goal: remote work and the freedom to live and travel in a van.
