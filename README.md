@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Gabriel 👋
 
-<!--
-**zahy1987/zahy1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full-Stack Developer based in UK.
 
-Here are some ideas to get you started:
+## Current focus
+- Frontend: HTML & CSS (solid foundation)
+- JavaScript: in progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning roadmap 
+- JavaScript
+- Python
+- Command Line
+- PHP
+- React
+- Tailwind CSS
+- SQL & Databases
+
+#### Certifications (planned)
+- AWS Certified Cloud Practitioner (including exam)
+- Microsoft Certified: Azure Administrator Associate (including exam)
+
+##### Goals
+- Become a job-ready Full-Stack Developer
+- Build real-world projects and a strong portfolio
+- Work remotely within the next 2 years
+
+# What I’m building
+- Frontend practice projects
+- Portfolio website
+- Future full-stack applications
+
+# Mindset
+Learning step by step, focusing on consistency and real understanding.
