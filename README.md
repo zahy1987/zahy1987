@@ -2,11 +2,11 @@
 
 Aspiring Full-Stack Developer based in UK.
 
-## Current focus
+# Current focus
 - Frontend: HTML & CSS (solid foundation)
 - JavaScript: in progress
 
-### Learning roadmap 
+# Learning roadmap 
 - JavaScript
 - Python
 - Command Line
@@ -15,11 +15,11 @@ Aspiring Full-Stack Developer based in UK.
 - Tailwind CSS
 - SQL & Databases
 
-#### Certifications (planned)
+# Certifications (planned)
 - AWS Certified Cloud Practitioner (including exam)
 - Microsoft Certified: Azure Administrator Associate (including exam)
 
-##### Goals
+# Goals
 - Become a job-ready Full-Stack Developer
 - Build real-world projects and a strong portfolio
 - Work remotely within the next 2 years
