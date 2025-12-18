@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel 👋
 
-Aspiring Full-Stack Developer based in UK.
+Aspiring Full-Stack Developer.
 
 # Current focus
 - Frontend: HTML & CSS (solid foundation)
