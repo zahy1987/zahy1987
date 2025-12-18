@@ -3,7 +3,7 @@
 Aspiring Full-Stack Developer.
 
 # Current focus
-- Frontend: HTML & CSS (solid foundation)
+- Frontend: HTML & CSS, Tailwind CSS (solid foundation)
 - JavaScript: in progress
 
 # Learning roadmap 
@@ -12,7 +12,6 @@ Aspiring Full-Stack Developer.
 - Command Line
 - PHP
 - React
-- Tailwind CSS
 - SQL & Databases
 
 # Certifications (planned)
